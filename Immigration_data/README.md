@@ -22,11 +22,11 @@ This project analyzes immigration trends to Canada from 1980 to 2013 using Pytho
 
 ### Continents by Immigration
 
-![Top Countries](Immigration_data/Top_continents.png)
+![Top Countries](Top_continents.png)
 
 ### Immigration Trends Over Time
 
-![Trends](Immigration_data/Trend_over_time.png)
+![Trends](Trend_over_time.png)
 
 ## 📂 Dataset
 
